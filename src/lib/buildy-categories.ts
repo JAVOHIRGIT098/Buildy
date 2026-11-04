@@ -1,0 +1,15 @@
+export const productCategories: Record<string, string> = {
+  cement: 'Sement',
+  bricks: 'G‘isht va blok',
+  'sand-gravel': 'Qum va shag‘al',
+  steel: 'Armatura va metall',
+  roofing: 'Tom materiallari',
+  insulation: 'Izolyatsiya',
+  electrical: 'Elektr jihozlari',
+  plumbing: 'Santexnika',
+  paint: 'Bo‘yoq va pardoz',
+  flooring: 'Pol va plitkalar',
+  'doors-windows': 'Eshik va derazalar',
+  tools: 'Asbob-uskunalar',
+  other: 'Boshqa materiallar',
+}
